@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriscillaEF
 - 👀 I’m interested in solving problems around the world
-- 🌱 I’m currently learning Frontend Engineering
+- 🌱 I’m currently interested in data science having dabbled into frontend engineering for a bit
 - 💞️ I’m looking to collaborate on anything disruptive
 - 📫 How to reach me @FanamaPriscilla on LinkedIn
 - 😄 Pronouns: Her/She
